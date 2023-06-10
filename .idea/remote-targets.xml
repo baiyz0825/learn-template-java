@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL" type="wsl" uuid="90261a79-06a3-4e59-90cb-b678bd1b5eb7">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-22.04" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="homePath" value="/home/baiyz0825/.jdks/openjdk-20.0.1" />
+          </config>
+        </ContributedStateBase>
+        <ContributedStateBase type="MavenRuntime">
+          <config>
+            <option name="homePath" value="/mnt/d/CodeEvironmet/apache-maven-3.8.6/bin/mvn" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
