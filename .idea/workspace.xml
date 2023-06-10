@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7498ff4-bad4-4d83-ae8f-1a0219532cf9" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/baiyz/annoTest/BeVerified.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/baiyz/annoTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/baiyz/annoTest/ReflectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/baiyz/annoTest/SelfAnno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/baiyz/proxyTest/BeProxyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/baiyz/proxyTest/BeProxyClassInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/baiyz/proxyTest/InvokeHandlerSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/baiyz/proxyTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/baiyz/proxyTest/ProxyAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +59,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.63793105",
@@ -105,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686375631593</updated>
       <workItem from="1686375633372" duration="339000" />
-      <workItem from="1686375993662" duration="7969000" />
+      <workItem from="1686375993662" duration="8383000" />
     </task>
     <servers />
   </component>
